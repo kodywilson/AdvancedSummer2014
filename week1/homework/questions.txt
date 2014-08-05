@@ -1,11 +1,26 @@
 Read POODR:
   Chapter 1 & 2 - be ready to look at code examples for these principles and discuss
 
-Work on Solitaire exercise
+Work on Solitaire exercise - Done
 
-If you haven't already, add file uploads to a rails app using carrierwave
+If you haven't already, add file uploads to a rails app using carrierwave - Done
 
-extra credit: Read/skim chapter 3 of Microscope
+extra credit: Read/skim chapter 3 of Microscope - Done
 
 
 come prepared with 3 questions or discussion items (can be code related) about the reading and/or exercise
+
+1) I really love that Sandi mentions the science behind the OOO design methods being discussed and for that
+   reason and many others I wish I had found this book way back in March or so. POODR rocks! So much of what
+   I have read on the Internet or heard from colleagues just seemed like opinion with no basis in scientific
+   research, but now I see that there is solid evidence behind the ideas in the book.
+
+2) This quote from the first chapter really resonated with me: "The syntax of the Ruby language is so gentle that anyone
+   blessed with the ability to string thoughts into logical order can produce working
+   applications. Programmers who know nothing about object-oriented design can be
+   very successful in Ruby." - so true! I think I have spent more time trying to get up to speed on OO programming in
+   general than learning the specifics of Ruby, because at first I was just putting together stuff in Ruby the same way
+   I had in Pascal or even Bash.
+   
+3) My poor gem from the first class! My classes were certainly not single responsibility classes and many of them are just
+   embarassingly huge. I have a lot of refactoring to do!
